@@ -2,7 +2,10 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## 📋 규칙
-
+ - 오후 13시까지 문제2문제 제출
+ - 오프라인 일정 
+ - 매일 1-2문제 (완전구현/bfs/dfs/dijkstra)
+ - 
 ## 📂 폴더/파일 이름
  - 자신의 DIR에 주차별 폴더 내 정리
  - 파일이름: 플랫폼_문제이름_번호.{확장자}
@@ -43,7 +46,7 @@ git commit -m "ADD : 0주차 SWEA_파리퇴치_구현_D2 풀이" -m "하고싶�
 | 주차7 |           |           |           |           |           |           |
 | 주차8 |           |           |           |           |           |           |
 | 주차9 |           |           |           |           |           |           |
-| 주차10 |          |           |           |           |           |           |
+| 주차10|           |           |           |           |           |           |
 
 ## 📋 추후 예정
  - GitEmoji 사용하여 태그를 추가할 지 말 지 고민
