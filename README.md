@@ -37,6 +37,10 @@ git commit -m "ADD : 0주차 SWEA_파리퇴치_구현_D2 풀이" -m "하고싶�
 ## 📅일정 및 기록
  -  https://satin-rest-2a5.notion.site/5f10fdc88b6042c18a3b4d95f3d71546?pvs=4
 
+
+ GIT
+ - https://www.notion.so/git-1894557c658243508fbeef13429d1282
+
 ## 📋 추후 예정
  - GitEmoji 사용하여 태그를 추가할 지 말 지 고민
  - 정확한 규칙 정하기
