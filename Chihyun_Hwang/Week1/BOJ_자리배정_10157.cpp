@@ -6,7 +6,7 @@ using namespace std;
 int maps[1001][1001];
 
 int testm[3][3];
-// À§ ¿À ¾Æ ¿Þ
+// ìœ„ ì˜¤ ì•„ ì™¼
 
 int dx[4] = { 1,0,-1,0 };
 int dy[4] = { 0,1,0,-1 };
@@ -33,9 +33,9 @@ int main()
 {
 
 	cin >> c >> r; // r/c
-	cin >> k; // µî¼ö
+	cin >> k; // ë“±ìˆ˜
 
-	if (k > r * c) // ¸ÊÅ©±âº¸´Ù Å« °æ¿ì
+	if (k > r * c) // ë§µí¬ê¸°ë³´ë‹¤ í° ê²½ìš°
 	{
 		cout<< "0";
 		return 0;
